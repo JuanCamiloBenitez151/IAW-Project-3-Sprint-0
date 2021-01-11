@@ -1,0 +1,3 @@
+# What are Node and express
+
+Node (or more correctly: Node.js) is a run-time, open source, cross-platform environment that allows developers to create all kinds of server-side tools and applications in JavaScript. Real-time execution is intended to be used outside the context of a web browser (that is, run directly on a computer or server operating system). As such, the environment bypasses web browser-specific JavaScript APIs and adds support for more traditional OS APIs including HTTP and file system libraries.
